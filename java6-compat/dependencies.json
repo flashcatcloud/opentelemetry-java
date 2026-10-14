@@ -1,0 +1,86 @@
+[
+  {
+    "group": "build",
+    "file": "retrolambda-2.5.7.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/orfjackal/retrolambda/retrolambda/2.5.7/retrolambda-2.5.7.jar",
+    "sha256": "590ad5ddefd57f47245f5470d24431b5bf2384086f8966c17545289efbe6b12e"
+  },
+  {
+    "group": "build",
+    "file": "streamsupport-1.7.4.jar",
+    "url": "https://repo.maven.apache.org/maven2/net/sourceforge/streamsupport/streamsupport/1.7.4/streamsupport-1.7.4.jar",
+    "sha256": "f83a1a7363490c5421e526ebb0f6e19e1cbf04aabb54a99aeb9bc82567a83e2d"
+  },
+  {
+    "group": "build",
+    "file": "threetenbp-1.6.8.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/threeten/threetenbp/1.6.8/threetenbp-1.6.8.jar",
+    "sha256": "e4b1eb3d90c38a54c7f3384fda957e0b5bf0b41b40672a44ae8b03cb6c87ce06"
+  },
+  {
+    "group": "build",
+    "file": "auto-value-1.11.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value/1.11.1/auto-value-1.11.1.jar",
+    "sha256": "0c556370ca3d072ba7dec6b37751ccad0e4804b6f3390cc9acb800d821dd9c0a"
+  },
+  {
+    "group": "build",
+    "file": "auto-value-annotations-1.11.1.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/auto/value/auto-value-annotations/1.11.1/auto-value-annotations-1.11.1.jar",
+    "sha256": "6c61a11420a5cddf3313888e9d335d5eedfbeb9a8da26591470fbfe61f5bf859"
+  },
+  {
+    "group": "build",
+    "file": "jsr305-3.0.2.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar",
+    "sha256": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7"
+  },
+  {
+    "group": "build",
+    "file": "error_prone_annotations-2.50.0.jar",
+    "url": "https://repo.maven.apache.org/maven2/com/google/errorprone/error_prone_annotations/2.50.0/error_prone_annotations-2.50.0.jar",
+    "sha256": "4667724877f1d37a689202da191e23efa7657c62eef93ccdac406eccfe5cdd0a"
+  },
+  {
+    "group": "build",
+    "file": "commons-codec-1.10.jar",
+    "url": "https://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.10/commons-codec-1.10.jar",
+    "sha256": "4241dfa94e711d435f29a4604a3e2de5c4aa3c165e23bd066be6fc1fc4309569"
+  },
+  {
+    "group": "build",
+    "file": "jctools-core-4.0.7.jar",
+    "url": "https://repo.maven.apache.org/maven2/org/jctools/jctools-core/4.0.7/jctools-core-4.0.7.jar",
+    "sha256": "fab373e48733e00bdf7114edbdb49f54114b0237e088b161c05984a6705fed50"
+  },
+  {
+    "group": "native",
+    "file": "opentelemetry-api.jar",
+    "url": "https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-api/1.66.0/opentelemetry-api-1.66.0.jar",
+    "sha256": "b93c5e4b5d504e77670e85fdd8c258ab08bad808473c403a91ae65f1a393f0b7"
+  },
+  {
+    "group": "native",
+    "file": "opentelemetry-context.jar",
+    "url": "https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-context/1.66.0/opentelemetry-context-1.66.0.jar",
+    "sha256": "d83bd8e93d5e1df017a88c6702ff77d0887a4b4862b50e0009d01e57295dc87e"
+  },
+  {
+    "group": "native",
+    "file": "opentelemetry-sdk-trace.jar",
+    "url": "https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-trace/1.66.0/opentelemetry-sdk-trace-1.66.0.jar",
+    "sha256": "579c96897d9112b626fbf325efc116c2d4f046aec1bd72e9909ec0f5431a2040"
+  },
+  {
+    "group": "native",
+    "file": "opentelemetry-sdk-common.jar",
+    "url": "https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-sdk-common/1.66.0/opentelemetry-sdk-common-1.66.0.jar",
+    "sha256": "305f3a15118c39a45b0d5b9b61fc61b6cb2fad2bdf8f3da2e1419627fabe2079"
+  },
+  {
+    "group": "native",
+    "file": "opentelemetry-common.jar",
+    "url": "https://repo.maven.apache.org/maven2/io/opentelemetry/opentelemetry-common/1.66.0/opentelemetry-common-1.66.0.jar",
+    "sha256": "d582be8b5d7a5e31e01801373a9c48a1b28c5a3c880438982eba6daa823f128e"
+  }
+]
